@@ -29,5 +29,5 @@ Para ver o desenvolvimento acesse o planejamento:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Juliana-pinto-bastos-dias/)
 
-<p align="center">Copyright © 2021 Julilanapbdias</p>
+<p alig="center">Copyright © 2021 Julilanapbdias</p>
  
