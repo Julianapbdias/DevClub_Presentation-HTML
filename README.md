@@ -1,4 +1,3 @@
-<img src="exemplo-image.png" alt="exemplo imagem">
 
 # DevClub_Presentation-HTML
 
