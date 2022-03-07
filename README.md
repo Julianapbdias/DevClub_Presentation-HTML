@@ -26,10 +26,9 @@ Para ver o desenvolvimento acesse o planejamento:
 #
 ### Support Ou Contato
 
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/juliana_pb)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Julianap_b/)
+[![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Julianapbdias)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliana-pinto-bastos-dias/)
 
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Juliana-pinto-bastos-dias/)
-
-<p alig="center">Copyright © 2022 Julilanapbdias</p>
+<p align="center">Copyright © 2022 Julianapbdias</p>
  
