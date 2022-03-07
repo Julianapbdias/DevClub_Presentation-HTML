@@ -1,6 +1,8 @@
 
 # DevClub_Presentation-HTML
 
+<img src="presentation.jpg" alt="Presentation_image">
+
 Exercício realizado em HTML para criar um LP de apresentação.
 ## 🔧 Funçoes (opcional)
 
